@@ -1,6 +1,5 @@
 Android study notes and resources
 ===================
--------------
 
 ### <i class="icon-pencil"></i> Study notes
 
