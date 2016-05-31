@@ -7,4 +7,4 @@ Android study notes and resources
 
 ### <i class="icon-file"></i> Resources collection
 
-> - [TutorialsPoint](https://stackedit.io/editor)
+> - [TutorialsPoint](http://www.tutorialspoint.com/android/index.htm)
